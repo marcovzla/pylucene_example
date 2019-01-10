@@ -32,3 +32,5 @@ for mac:
 install clangxx_osx-64 instead of gxx_linux-64
 
 use $(/usr/libexec/java_home)
+
+https://github.com/Homebrew/legacy-homebrew/issues/39492#issuecomment-104934179
